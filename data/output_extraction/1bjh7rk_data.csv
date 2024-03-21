@@ -1,0 +1,19 @@
+data_type,post_id,title,author,created_utc,score,num_comments,url,body,comment_id
+post,1bjh7rk,USDV stablecoin - is it trustworthy?,prepinakos,1710951058.0,0,8.0,https://www.reddit.com/r/defi/comments/1bjh7rk/usdv_stablecoin_is_it_trustworthy/,"I have recently discovered this stablecoin and I am thinking about investing in some liquidity pools containing USDV.
+
+On their website they mention that evry USDV is overcollateralized by underlying token STBT ( ERC-1400 standard token for accredited investors to access ‘risk-free’ short-term US Treasury securities with maturities within 6-month, and overnight reverse repurchase agreements.) 
+
+All sounds good but has anyone digged deeper and found any flaws or risks?",
+comment,1bjh7rk,,Mehfisto666,1710960017.0,2,,,I do not trust any stable that hasn't survived at least one bear market. Except maybe crvUSD but crv has been around since forever so i trust crv,kvrt0ok
+comment,1bjh7rk,,,1710951374.0,1,,,[deleted],kvr2m2i
+comment,1bjh7rk,,,1710952706.0,1,,,[removed],kvr6ppj
+comment,1bjh7rk,,monkeyhold99,1710976594.0,1,,,Lol no,kvt677q
+comment,1bjh7rk,,Open_Ad_8179,1710979306.0,1,,,I see some platforms use usdt as a stablecoin,kvtdj9g
+comment,1bjh7rk,,moo9001,1710975610.0,1,,,The obvious risk is the involvement of the US regulators (Gary) making the collateral token worthless.,kvt3gz4
+comment,1bjh7rk,,prepinakos,1710951473.0,1,,,what do you mean by credit based investing? based on USDV description it seems much safer than USDC or USDT which we got basically no idea what they are backed by and if they are backed enough,kvr2x2p
+comment,1bjh7rk,,AutoModerator,1710952911.0,1,,,"This comment has been removed because our auto-moderator detected it as spam or your account is too new to post here.
+
+If this post is *not* spam, please contact the moderators for assistance.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/defi) if you have any questions or concerns.*",kvr7clr
+comment,1bjh7rk,,advias,1710951810.0,1,,,I literally just woke up and thought you said it was credit based lending lmao will delete,kvr3ye3

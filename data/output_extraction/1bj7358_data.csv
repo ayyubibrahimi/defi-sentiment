@@ -1,0 +1,39 @@
+data_type,post_id,title,author,created_utc,score,num_comments,url,body,comment_id
+post,1bj7358,DEX with market order for main crypto coins,NULLBASED,1710916614.0,4,10.0,https://www.reddit.com/r/defi/comments/1bj7358/dex_with_market_order_for_main_crypto_coins/,"I’m still new to crypto and trading so I’m sorry about being so clueless. 
+
+From what I understand a CEX is what normal people use to trade crypto with the downside of KYC.
+
+A DEX like Uniswap is where people trade meme-coins without KYC.
+
+But is there a DEX that has market orders for Bitcoin and all other big crypto coins? Which are the reputable ones to trade on?
+
+",
+comment,1bj7358,,moo9001,1710928503.0,2,,,"Uniswap is the most reputable one. Another one is Curve. You can trade spot BTC (bridged variant, called WBTC) cost-efficiently e.g. on Uniswap v3 on Arbitrum. You get a market order (swap) with 5 BPS fee.
+
+* [See WBTC trading pairs here](https://tradingstrategy.ai/search?q=wbtc&sortBy=tvl%3Adesc&filters=%7B%22pair_swap_fee%22%3A%5B%5D%2C%22price_change_24h%22%3A%5B%5D%2C%22liquidity%22%3A%5B%5D%2C%22volume_24h%22%3A%5B%22Infinity-1000000%22%5D%2C%22type%22%3A%5B%22pair%22%5D%2C%22blockchain%22%3A%5B%5D%2C%22exchange%22%3A%5B%5D%7D)
+* There are [liquid spot ETH-USDC pairs on Uniswap across all chains](https://tradingstrategy.ai/search?q=wbtc&sortBy=tvl%3Adesc&filters=%7B%22pair_swap_fee%22%3A%5B%5D%2C%22price_change_24h%22%3A%5B%5D%2C%22liquidity%22%3A%5B%5D%2C%22volume_24h%22%3A%5B%22Infinity-1000000%22%5D%2C%22type%22%3A%5B%22pair%22%5D%2C%22blockchain%22%3A%5B%5D%2C%22exchange%22%3A%5B%5D%7D)
+
+My recommendation would be to stick to Arbitrum, where you get low fas fees and good liquidity.
+
+If you want to bridge BTC back to the original Bitcoin chain then there are bridges, but WBTC itself is KYC'ed, and the nature of Bitcoin does not allow to do this in very decentralised manner. AFAIK Thorchain has still uncensored bridge, but the ecosystem on Thorchain is smaller than on more well-known EVM chains.",kvpl1xe
+comment,1bj7358,,Fun_Excitement_5306,1710917339.0,1,,,"Caviar nine offers this (among other) functionality, and you trade wrapped eth, BTC, usdc and usdt, (as well as a bunch of other stuff). Each tx cost about a cent and are almost instant.",kvp6n8u
+comment,1bj7358,,LordOfTheBinge,1710931425.0,1,,,Mixin Messenger comes to mind,kvppfd0
+comment,1bj7358,,,1710944027.0,1,,,[removed],kvqgvo4
+comment,1bj7358,,advias,1710951031.0,1,,,">A DEX like Uniswap is where people trade meme-coins without KYC.
+
+Uniswap is a place to trade ERC20 standard contract balances.
+
+Uniswaps main purpose is market orders using algorithms instead of bid and supply.",kvr1k9x
+comment,1bj7358,,0xSmartMoney,1710958460.0,1,,,"check ambient.finance
+limit orders are atomic 🙂",kvroenl
+comment,1bj7358,,,1710963341.0,1,,,[removed],kvs3f0y
+comment,1bj7358,,AutoModerator,1710944027.0,2,,,"This comment has been removed because our auto-moderator detected it as spam or your account is too new to post here.
+
+If this post is *not* spam, please contact the moderators for assistance.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/defi) if you have any questions or concerns.*",kvqgvpu
+comment,1bj7358,,AutoModerator,1710963342.0,1,,,"This comment has been removed because our auto-moderator detected it as spam or your account is too new to post here.
+
+If this post is *not* spam, please contact the moderators for assistance.
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/defi) if you have any questions or concerns.*",kvs3f37
