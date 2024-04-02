@@ -1,0 +1,12 @@
+.idea
+*.env
+*__pycache__*
+/.coverage
+.DS_Store
+data/
+map/
+*.csv
+*.pdf
+*.json
+node_modules/
+output/

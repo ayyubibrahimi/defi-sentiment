@@ -57,6 +57,14 @@ def extract_data(subreddit_name, client_id, client_secret, user_agent, output_di
 
 if __name__ == "__main__":
 
+    # Reddit API credentials
+    client_id = "X6yBUfvCAvEu84hNy7O-_w"
+    client_secret = "zJAUcg1M_KSPLd5eU-DLnp0cSEbiMg"
+    user_agent = "defi/1.0 (http://localhost:8080; ayyub.ibrahimi@gmail.com)"
+
+
+    # Output directory
+
     subreddit_name = "defi"
 
     output_directory = "../data/output_extraction"
